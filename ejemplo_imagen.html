@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ejemplo imagenes modificadas</title>
+	<style>
+		#div_original,#div_destino{
+			float:left;
+			border: 3px solid black;
+			padding: 3px;
+		}
+		.caja{
+			border: 1px solid black;
+			padding: 3px;
+			
+		}
+		#div_contenedor{
+			display: inline;
+		
+		}
+	</style>
+</head>
+<body>
+	<div id="div_contenedor">
+		<div id="titulo">
+			<textarea>Hola</textarea>
+			<br>
+			Codigo:
+			<br>
+			<input type="text" id="codigo" name="codigo" value="#codigo#">
+			texto:
+			<br>
+			<input type="text" id="texto" name="texto" value="#texto#">
+		</div>
+		<br>
+		<div id="div_original" class="caja">
+			Imagen Original<br>
+			<img src="arcoiris_100.png"/>
+		</div>
+		<div id="div_destino" class="caja">
+			Imagen Destino<br>
+			<img src="transp.png"/>
+		</div>
+
+	</div>
+
+</body>
+</html>

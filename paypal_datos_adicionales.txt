@@ -1,0 +1,37 @@
+Completa las secciones siguientes y carga el documento guardado o impreso en tu cuenta PayPal haciendo referencia al Id. de caso mencionado en el Centro de resoluciones.
+------------------------------------------
+Representante autorizado:
+------------------------------------------
+
+Actualice el porcentaje de propiedad del EJECUTIVO DE LA EMPRESA (Ejecutivo de la empresa) al 0%
+• Proporciona los nombres, la fecha de nacimiento, la nacionalidad y la dirección de cada representante autorizado:
+Nombre Fecha de nacimiento Nacionalidad Domicilio
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+------------------------------------------
+Propietarios:
+------------------------------------------
+• Proporciona los nombres, la fecha de nacimiento, el domicilio, la nacionalidad y el porcentaje de propiedad en la empresa de cualquier particular que posea más del 25% de la empresa (si nadie posee más del 25% de tu empresa, proporciona los datos correspondientes a un ejecutivo de la empresa a continuación). Ten en cuenta que se requiere una prueba de identificación válida para cada persona añadida como "Propietario".
+Nombre Fecha de nacimiento Nacionalidad Domicilio % propiedad
+_______________________ _______________________ _______________________ _________________ _________
+_______________________ _______________________ _______________________ _________________ _________
+_______________________ _______________________ _______________________ _________________ _________
+_______________________ _______________________ _______________________ _________________ _________
+_______________________ _______________________ _______________________ _________________ _________
+_______________________ _______________________ _______________________ _________________ _________
+------------------------------------------
+Ejecutivo de la empresa:
+------------------------------------------
+• Proporciona los nombres, la fecha de nacimiento, la nacionalidad y el domicilio de cada ejecutivo de la empresa. Ten en cuenta que se requiere una prueba de identificación válida para cada persona añadida como "Ejecutivo de la empresa".
+Nombre Fecha de nacimiento Nacionalidad Domicilio
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+_______________________ _______________________ _______________________ _____________________
+Firma de un representante autorizado de la empresa: _______________________
